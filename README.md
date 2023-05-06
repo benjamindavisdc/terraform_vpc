@@ -1,4 +1,4 @@
 # terraform_vpc
 A terraform config file creating a vpc with multiple subnets behind an ASG and ALB
 
-This is a basic blueprint to create a resource group which can handle traffic spikes by creatig additional servers and routing traffic equally between them.
+This is a blueprint to create a resource group which can handle traffic spikes by creatig additional servers and routing traffic equally between them.
